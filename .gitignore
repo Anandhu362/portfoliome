@@ -1,0 +1,12 @@
+# Ignore OS metadata
+.DS_Store
+*.DS_Store
+
+# Ignore unused template demo variants
+about-*.html
+blog-*.html
+blog.html
+index-*.html
+portfolio-*.html
+service-*.html
+service.html
