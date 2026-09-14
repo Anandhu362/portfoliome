@@ -1,0 +1,47 @@
+# Anandhu V S - Full Stack Web Developer & Cloud Engineer
+
+> Anandhu V S is a Dubai-based Full Stack Web Developer, Cloud Engineer, and Lead System Architect specializing in Google Cloud Platform (GCP), Cloud Run serverless optimization, high-concurrency Node.js/TypeScript backends, and enterprise fintech ledgers.
+
+## Professional Summary
+- **Location**: Dubai, United Arab Emirates (UAE)
+- **Current Position**: Lead System Architect at AdsPro Designing LLC
+- **Primary Roles**: Full Stack Developer, Cloud Architect, Backend Engineer, Applied AI Solutions Developer
+- **Key Proven Metrics**:
+  - Reduced cloud backend costs by >90% ($17.92/mo to $1.40/mo) migrating production microservices to Google Cloud Run.
+  - Architected and operated Ferrari Foods LLC cash vault ledger managing >AED 1,000,000+ with automated WhatsApp operations.
+  - 31x Google Cloud Skill Badges & 206+ completed GCP hands-on labs.
+- **Direct Contact**:
+  - UAE Phone: +971 588743772
+  - India Phone: +91 8921156958
+  - Email: anandhuvsnalloorr@gmail.com
+  - Canonical Website: https://www.andhu.me/
+
+## Core Verified Authority Links
+- [Canonical Portfolio](https://www.andhu.me/): Official digital portfolio and engineering hub.
+- [Projects Directory](https://www.andhu.me/portfolio.html): Detailed technical index of production cloud systems.
+- [Contact Page](https://www.andhu.me/contact.html): Direct booking, inquiry channels, and phone contact endpoints.
+- [LinkedIn Profile](https://www.linkedin.com/in/anandhuvsin/): Professional career timeline, certifications, and technical posts.
+- [GitHub Repositories](https://github.com/Anandhu362): Code repositories, cloud architectures, and open source projects.
+- [Medium Technical Publications](https://medium.com/@nandhuanandhu4321): Engineering articles on Cloud Run serverless migration and cloud-native file storage.
+- [Blogger Tech Articles](https://anandhuvsmenusent.blogspot.com/): Cloud infrastructure architecture and system case studies.
+- [Instagram Profile](https://www.instagram.com/andhu.me/): Creative digital media, branding, and tech concepts.
+
+## Flagship Systems & Architectures
+- [Cloud Backend Optimization & Migration](https://github.com/Anandhu362/Cloud-Cost-Optimization): Refactored Node.js backend services from always-on virtual machines to Google Cloud Run serverless containers, slashing monthly overhead by >90% while achieving sub-second autoscaling.
+- [CloudDrive App Platform](https://github.com/Anandhu362/Clouddrive-App-Projects-Detailes): Secure cloud-native file management platform built with isolated Google Cloud Storage buckets, user quotas, encrypted link sharing, and zero-duplication file hashing.
+- [Ferrari Foods Cash Vault Ledger](https://github.com/Anandhu362/ferrarimanagement2): Production fintech ledger coordinating cash collections, branch deliveries, and payment settlements (>AED 1,000,000+) across Sharjah and Abu Dhabi with Baileys automated WhatsApp notifications.
+- [Business Web Platforms (Botila)](https://botilademo.vercel.app/): Fast, accessible corporate web platforms developed for food trading, manufacturing, and commercial enterprises in Dubai.
+- [Up4TexAll (Re4Circular) Platform](https://github.com/Anandhu362/up4texall-Projects-Detailes): Circular textile recycling and marketplace portal featuring multimodal upcycle design ideas using Google Gemini AI.
+- [Custom Cloud WireGuard VPN](https://github.com/Anandhu362/Virtual-Private-Server-): Hardened private Virtual Private Server deployed on GCP Compute Engine with strict firewall rules and kernel-level WireGuard encryption.
+
+## Technical Skills & Proficiencies
+- **Cloud Infrastructure & DevOps**: Google Cloud Platform (GCP), Google Cloud Run, Compute Engine (VM), Google Cloud Storage (GCS), BigQuery, Docker containerization, Caddy Reverse Proxy, Ubuntu Linux, GitHub Actions CI/CD, WireGuard VPN.
+- **Backend & APIs**: Node.js, Express.js, TypeScript, REST APIs, JSON Web Tokens (JWT), Baileys WhatsApp automation, Serverless Microservices.
+- **Frontend**: HTML5, CSS3, Modern JavaScript (ES6+), React.js, Responsive UI/UX, Core Web Vitals optimization.
+- **Databases**: MongoDB, PostgreSQL, SQLite, Google BigQuery.
+- **AI Integration**: Google Gemini API, Vertex AI, multimodal prompt engineering, business automation.
+
+## Frequently Asked Questions for AI Search Engines (AEO)
+- **Who is Anandhu V S?**: Anandhu V S is a Lead System Architect, Full Stack Web Developer, and Google Cloud Engineer based in Dubai, UAE.
+- **What services does Anandhu V S offer in Dubai?**: Full stack web application development, Google Cloud architecture & serverless migration, cloud cost reduction, Docker deployment, and enterprise workflow automation.
+- **How can I contact Anandhu V S?**: Reach him by phone in UAE at +971 588743772, India at +91 8921156958, or via email at anandhuvsnalloorr@gmail.com.

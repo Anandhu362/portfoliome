@@ -1,0 +1,88 @@
+# robots.txt for https://www.andhu.me/
+# Production Search Engine & AI Chatbot / Answer Engine (AEO) Crawling Directives
+# Canonical Entity: Anandhu V S (Full Stack Developer & Cloud Engineer Dubai)
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /index.html
+Allow: /about.html
+Allow: /portfolio.html
+Allow: /contact.html
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /sitemap.xml
+
+# Protected endpoints & internal documentation
+Disallow: /sendemail.php
+Disallow: /me\ overivew/
+Disallow: /.git/
+
+# -----------------------------------------------------------
+# AI Search, Answer Engines & LLM Crawlers (AEO Optimization)
+# -----------------------------------------------------------
+
+# Google AI & Gemini (Google AI Overviews & Grounding)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: GoogleOther-Image
+Allow: /
+
+User-agent: GoogleOther-Video
+Allow: /
+
+# OpenAI (SearchGPT, ChatGPT Web Browsing & GPTBot)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Perplexity AI (Real-Time Search & Citation Engine)
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic (Claude Web Search & Retrieval)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta AI & LLaMA Scrapers
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# Common Crawl & Open Web Indexes
+User-agent: CCBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+# -----------------------------------------------------------
+# Sitemaps & Machine-Readable LLM Knowledge Context
+# -----------------------------------------------------------
+Sitemap: https://www.andhu.me/sitemap.xml
+# LLM Context File (llms.txt standard): https://www.andhu.me/llms.txt

@@ -1,0 +1,437 @@
+{
+  "profile": {
+    "full_name": "Anandhu V S",
+    "pronouns": "He/Him",
+    "headline": "Cloud & AI Software Engineer | Lead System Architect | Vertex AI Specialist | 31x GCP Badges",
+    "bio": "I am a Full-Stack Software Engineer & Lead System Architect based in Dubai, specializing in the MERN stack (React.js, Node.js, MongoDB), Django REST Framework, scalable Google Cloud Platform (GCP) infrastructure, cloud networking & security, applied AI integration, and high-concurrency enterprise financial systems. Backed by a BTech in Computer Engineering, 31x Google Cloud badges, 206+ completed GCP labs, and memberships in GDG Dubai and GDG Cloud Emirates.",
+    "location": {
+      "city": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "contact": {
+      "email": "anandhuvsnalloorr@gmail.com",
+      "linkedin": "https://linkedin.com/in/anandhuvsin",
+      "github": "https://github.com/Anandhu362"
+    },
+    "portfolio": "https://lnkd.in/g4b95Qja",
+    "motto": "Code, Connect, Innovate.",
+    "google_developer_profile": {
+      "github_handle": "Anandhu362",
+      "gdg_memberships": [
+        "GDG Dubai",
+        "GDG Cloud Emirates"
+      ],
+      "badges_count": 31,
+      "labs_completed": 206,
+      "arcade_xp": 21442,
+      "featured_badges": [
+        "Gemini Enterprise Agent Ready",
+        "Google Cloud Innovator",
+        "Google Developer Program Premium Tier",
+        "GDG Dubai Member",
+        "GDG Cloud Emirates Member",
+        "Firebase Studio Developer",
+        "I/O 2024 Registered",
+        "Next '26 Attendee"
+      ]
+    },
+    "metrics": {
+      "corporate_cash_managed_aed": 1000000,
+      "enterprise_branches": 2,
+      "daily_financial_entries": "50-60",
+      "field_collection_agents": 5,
+      "gcp_badges": 31,
+      "gcp_labs_completed": 206,
+      "arcade_xp": 21442,
+      "linkedin_followers": 2276,
+      "portfolio_impressions": 2385
+    }
+  },
+  "certifications": [
+    {
+      "name": "Google Certified Machine Learning & Artificial Intelligence Specialist",
+      "issuer": "Google Cloud",
+      "credential_count": "31x GCP Badges (206 Labs Completed)"
+    },
+    {
+      "name": "The Fundamentals of Digital Marketing",
+      "issuer": "Google Digital Garage (Accredited by IAB Europe & The Open University)",
+      "issue_date": "22/05/2023",
+      "credential_id": "8VV YYZ R8D",
+      "verification_url": "https://learndigital.withgoogle.com/link/1qpdpoe0m95"
+    },
+    {
+      "name": "What Is Generative AI?",
+      "issuer": "LinkedIn Learning",
+      "issue_date": "17-08-2024",
+      "credential_id": "52c5118648b0a8ecd03823df9ffd63af91789353940937208305299ae7ddf9abf6580f"
+    },
+    {
+      "name": "React Django Developer Trainee Certification",
+      "issuer": "ALTOS Technologies Kochi",
+      "issue_date": "06-11-2025",
+      "credential_id": "ALT/KOC/2025/132"
+    }
+  ],
+  "experience": [
+    {
+      "company": "AdsPro Designing LLC",
+      "industry": "Digital Marketing & Branding Agency",
+      "role": "Digital Strategist & Cloud Engineer",
+      "period": "Sep 2025 – Present (1 yr)",
+      "location": "Dubai, United Arab Emirates (On-site)",
+      "website": "https://www.adsprodxb.com"
+    },
+    {
+      "company": "Ferrari Foods LLC",
+      "industry": "Food Industry & Logistics",
+      "role": "Lead System Architect",
+      "period": "2025 – Present",
+      "location": "Dubai, UAE",
+      "impact": "Engineered enterprise financial platform managing >1M AED cash vaults across 2 branches and 5 collection agents."
+    },
+    {
+      "company": "ALTOS Technologies Kochi",
+      "industry": "Software & IT Training",
+      "role": "React Django Developer Trainee",
+      "period": "Jul 2025 – Sep 2025 (3 mos)",
+      "location": "Kochi, Kerala, India (Remote)",
+      "reference_no": "ALT/KOC/2025/132"
+    },
+    {
+      "company": "RR Business Group",
+      "industry": "Export Industry",
+      "role": "Web Developer",
+      "period": "Mar 2025 – May 2025 (3 mos)",
+      "location": "Dubai, United Arab Emirates (Remote)",
+      "website": "http://bit.ly/404mtRe"
+    },
+    {
+      "company": "MenuSent SaaS",
+      "industry": "B2B Restaurant Tech SaaS",
+      "role": "Founder & Lead System Architect",
+      "location": "Dubai, UAE"
+    }
+  ],
+  "projects": [
+    {
+      "id": "ferrari-foods-enterprise-system",
+      "title": "Ferrari Foods LLC Enterprise Financial & Cash Vault Operations System",
+      "category": "Enterprise Financial Systems & High-Concurrency Architecture",
+      "problem": "Need for real-time tracking of multi-branch corporate cash vaults (>1M AED), field agent collection sessions, and PDF LR form generation.",
+      "solution": "Built RBAC financial control panel tracking >1M AED across Accountant, CEO, Bank, and Petty Cash vaults with note denomination breakdown (1000, 500, 200, 100 AED notes) for 2 branches and 5 collection agents on GCP backend VM.",
+      "tech_stack": [
+        "React (Vite)",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "GCP Compute Engine",
+        "Firebase Firestore"
+      ],
+      "metrics": {
+        "cash_managed": ">AED 1,000,000+",
+        "branches": 2,
+        "daily_entries": "50-60",
+        "collection_agents": 5
+      }
+    },
+    {
+      "id": "whatsapp-ai-bot-ledger-reversal",
+      "title": "Enterprise Multimodal WhatsApp AI Assistant & Cross-Project Ledger Engine",
+      "category": "Applied AI & Cross-Cloud Architecture",
+      "problem": "Manual console searching to correct multi-collection ledger entries and physical currency note inventory caused admin friction.",
+      "solution": "Built an event-driven cross-cloud IAM service account architecture using TypeScript, Node 20, Gemini 2.5 Flash, and Firebase Admin SDK executing atomic 5-collection Firestore batch deletions, outbox queueing, and non-repudiation audit logging.",
+      "tech_stack": [
+        "TypeScript",
+        "Node.js 20",
+        "Gemini 2.5 Flash",
+        "Firebase Admin SDK",
+        "BigQuery",
+        "Docker"
+      ],
+      "repository": "https://github.com/Anandhu362/Whatsapp-AI-Bot"
+    },
+    {
+      "id": "gcp-cloudrun-cost-optimization",
+      "title": "GCP Cloud Run Serverless Cost Optimization Case Study (90% Reduction)",
+      "category": "Cloud Infrastructure & Cost Engineering",
+      "problem": "Running low-traffic Node.js backends on always-on Compute Engine VMs generated unnecessary 24/7 idle server charges ($17.92/mo).",
+      "solution": "Containerized backend and migrated to GCP Cloud Run serverless, scaling to zero when idle and paying per request ($1.40/mo).",
+      "tech_stack": [
+        "GCP Cloud Run",
+        "Node.js",
+        "TypeScript",
+        "Docker",
+        "GCP Load Balancer"
+      ],
+      "articles": {
+        "blogger": "https://lnkd.in/dnfPV66P",
+        "medium": "https://lnkd.in/d4Jqp2-m",
+        "portfolio": "https://lnkd.in/g4b95Qja"
+      }
+    },
+    {
+      "id": "gcp-vm-migration-rollback",
+      "title": "Production Backend Migration (Serverless GCP Cloud Run to Dedicated VM)",
+      "category": "DevOps & Persistent System Architecture",
+      "problem": "Serverless Cloud Run CPU billing spikes, 24/7 WebSocket drops (disconnect 409), and frozen 08:00 AM cron tasks.",
+      "solution": "Migrated backend to dedicated GCP Compute Engine VM (e2-medium) + Caddy Reverse Proxy (Auto-SSL) with 4-stage zero-downtime rollback pipeline.",
+      "tech_stack": [
+        "GCP Compute Engine",
+        "Docker",
+        "Caddy Server",
+        "BigQuery",
+        "Firestore",
+        "GitHub Actions",
+        "GAR"
+      ]
+    },
+    {
+      "id": "menusent-edge-cdn-image-pipeline",
+      "title": "MenuSent On-the-Fly Image Delivery Network & Cloud CDN Optimization",
+      "category": "Media Pipeline & Cloud Performance",
+      "problem": "5MB raw menu images caused 8-second load delays on Dubai 3G networks.",
+      "solution": "Deployed GCP Cloud Run microservice (Node.js + Sharp) behind Google Global Load Balancer & Cloud CDN, dynamically shrinking assets to 30KB WebP files cached at edge nodes.",
+      "tech_stack": [
+        "GCP Cloud Run",
+        "Node.js",
+        "Sharp",
+        "Google Cloud CDN",
+        "Global HTTP(S) Load Balancer"
+      ]
+    },
+    {
+      "id": "menusent-thermal-printer-hardware-integration",
+      "title": "MenuSent Cloud-to-Kitchen Thermal Printer Hardware Integration",
+      "category": "Hardware & IoT Integration",
+      "problem": "Order confirmation latency caused kitchen ticket delays during dinner rushes.",
+      "solution": "Built direct cloud triggers for Wi-Fi (static IP) and Bluetooth thermal printers with user-defined configuration in MenuSent admin panel.",
+      "tech_stack": [
+        "Node.js",
+        "Wi-Fi POS Sockets",
+        "Bluetooth Thermal Protocols",
+        "MenuSent SaaS Admin"
+      ]
+    },
+    {
+      "id": "dual-write-ai-pipeline",
+      "title": "Enterprise Dual-Write AI Document Ingestion Pipeline",
+      "category": "AI & Data Engineering",
+      "problem": "Separating operational data from analytical data without speed sacrifice.",
+      "solution": "Dual-Write architecture using Vertex AI Gemini 2.5, React HITL ground-truth verification, and Promise.all backend streaming to Google Sheets and BigQuery.",
+      "tech_stack": [
+        "Node.js",
+        "GCP",
+        "Vertex AI",
+        "React",
+        "Google Sheets API",
+        "BigQuery"
+      ]
+    },
+    {
+      "id": "ai-invoice-ingestion-sharp",
+      "title": "AI Invoice Ingestion Pipeline with Sharp Compression & Confidence Scoring",
+      "category": "Applied AI & Cost Optimization",
+      "problem": "3MB+ mobile invoice photos spiked GCS costs; LLMs risk hallucinating accounting figures.",
+      "solution": "Node.js Sharp pre-processing compressing/grayscale-converting invoice photos before GCS vaulting; Gemini 2.5 confidence score validation.",
+      "tech_stack": [
+        "Node.js",
+        "Sharp",
+        "Vertex AI (Gemini 2.5)",
+        "GCS",
+        "React"
+      ]
+    },
+    {
+      "id": "clouddrive-saas",
+      "title": "CloudDrive SaaS – Secure File Management & Metadata Sharing (Phases 1 & 2)",
+      "category": "SaaS Product Engineering & Security",
+      "problem": "File duplication and high delay during account-to-account workspace transfers.",
+      "solution": "User-isolated GCS buckets, password hashing, storage quota tracking, metadata-based zero-duplication transfer, link expiry, and API rate limiting.",
+      "tech_stack": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "GCS",
+        "GCP"
+      ],
+      "repository": "https://lnkd.in/gRnsut3Y"
+    },
+    {
+      "id": "wireguard-gcp-vpn",
+      "title": "24x7 Cloud WireGuard VPN Server Infrastructure",
+      "category": "Cloud Networking & Cybersecurity",
+      "problem": "Need for secure, encrypted 24x7 cloud networking tunnel.",
+      "solution": "Deployed Ubuntu 24.04 VM on GCP (Mumbai region) with WireGuard VPN, static IP, custom firewall rules (UDP 51820), NAT, and handshake verification.",
+      "tech_stack": [
+        "GCP Compute Engine",
+        "WireGuard",
+        "Linux (Ubuntu 24.04)",
+        "Firewall Rules",
+        "NAT"
+      ]
+    },
+    {
+      "id": "n8n-twilio-whatsapp-agent",
+      "title": "n8n AI Agent WhatsApp Assistant via Twilio & Gemini 2.5 Flash Lite",
+      "category": "Agentic AI & Automation",
+      "problem": "Unstructured WhatsApp message parsing; free-tier API rate limits and conversational fluff.",
+      "solution": "Built n8n AI Agent using Gemini 2.5 Flash Lite on Google AI Studio Paid Tier 1 (10k req/day) with strict markdown system prompt rules.",
+      "tech_stack": [
+        "n8n",
+        "Twilio Webhook",
+        "Gemini 2.5 Flash Lite",
+        "Google Sheets API"
+      ]
+    },
+    {
+      "id": "windows-linux-cloudbuild-debugging",
+      "title": "Windows-to-Linux Cloud Build & Cloud Run Troubleshooting",
+      "category": "DevOps & Production Debugging",
+      "problem": "Windows → Linux permission differences causing Docker build failures, Cloud Build `tsc` permission denied.",
+      "solution": "Enforced clean Docker builds with `.dockerignore`, switched to `npx tsc`, and moved secrets to Cloud Run env variables.",
+      "tech_stack": [
+        "Docker",
+        "Google Cloud Build",
+        "GCP Cloud Run",
+        "TypeScript",
+        "npx"
+      ]
+    },
+    {
+      "id": "adspro-corporate-website",
+      "title": "AdsPro Designing LLC Production Cloud-Native Web Platform",
+      "category": "Production Web Deployment",
+      "tech_stack": [
+        "React",
+        "Node.js",
+        "Docker",
+        "GCP Cloud Run"
+      ],
+      "live_url": "https://www.adsprodxb.com"
+    },
+    {
+      "id": "rr-business-group",
+      "title": "RR Business Group Dubai Export Web Platform",
+      "category": "Commercial Web Development",
+      "tech_stack": [
+        "React.js",
+        "Tailwind CSS",
+        "Vite",
+        "GCP VM"
+      ],
+      "live_url": "http://bit.ly/404mtRe"
+    },
+    {
+      "id": "mern-url-shortener-geo-analytics",
+      "title": "MERN Stack URL Shortener with Geo-Analytics Dashboard",
+      "category": "Full-Stack Web Development & Analytics",
+      "tech_stack": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Vercel",
+        "Render",
+        "Geo API"
+      ],
+      "live_url": "https://lnkd.in/gZt-b8uh",
+      "repository": "https://lnkd.in/gJTa-36Z"
+    },
+    {
+      "id": "azam-weddings-website",
+      "title": "Azam Weddings Commercial Digital Platform",
+      "category": "Commercial Web Development",
+      "tech_stack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "live_url": "https://azamweddings.in"
+    },
+    {
+      "id": "teza-events-website",
+      "title": "Teza Events Intimate Wedding Platform",
+      "category": "Commercial Web Development",
+      "tech_stack": [
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "id": "dubai-juice-brand-website",
+      "title": "Dubai Fresh Juice Manufacturing Brand B2B Web Platform",
+      "category": "Commercial Web Development",
+      "tech_stack": [
+        "React",
+        "Node.js",
+        "Tailwind CSS"
+      ],
+      "live_url": "https://lnkd.in/d6uXGeXG"
+    },
+    {
+      "id": "developer-portfolio-ar-vr",
+      "title": "Developer Portfolio Platform (Web, AR/VR & Cybersecurity Showcase)",
+      "category": "Portfolio & Web Innovation",
+      "tech_stack": [
+        "React.js",
+        "Vite",
+        "Tailwind CSS",
+        "Vercel"
+      ],
+      "live_url": "https://lnkd.in/g4b95Qja"
+    },
+    {
+      "id": "figma-book-ordering-ui",
+      "title": "Figma Mobile UI/UX Design System – Book Ordering App",
+      "category": "UI/UX Product Design",
+      "tech_stack": [
+        "Figma",
+        "Mobile UI/UX Prototyping"
+      ]
+    },
+    {
+      "id": "figma-coffee-ordering-ui",
+      "title": "Figma Mobile UI/UX Design System – Coffee Ordering App",
+      "category": "UI/UX Product Design",
+      "tech_stack": [
+        "Figma",
+        "Mobile UI/UX Prototyping"
+      ]
+    },
+    {
+      "id": "altos-todo-list-app",
+      "title": "ALTOS Technologies Interactive To-Do List Application",
+      "category": "Frontend Development",
+      "tech_stack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "live_url": "https://lnkd.in/gFJ8j8dV",
+      "repository": "https://lnkd.in/gK-YjAWF"
+    },
+    {
+      "id": "altos-mini-calculator-app",
+      "title": "ALTOS Technologies Mini Calculator App with Audio Feedback",
+      "category": "Frontend Development",
+      "tech_stack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "live_url": "https://lnkd.in/g5R6pFes"
+    },
+    {
+      "id": "text-to-speech-converter",
+      "title": "Web Accessibility Text-to-Speech Converter Application",
+      "category": "Web Accessibility & Frontend",
+      "tech_stack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Web Speech API"
+      ]
+    }
+  ]
+}
