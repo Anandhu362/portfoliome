@@ -26,11 +26,13 @@
 - [Blogger Tech Articles](https://anandhuvsmenusent.blogspot.com/): Cloud infrastructure architecture and system case studies.
 - [Instagram Profile](https://www.instagram.com/andhu.me/): Creative digital media, branding, and tech concepts.
 - [StackShare Tech Profile](https://stackshare.io/anandhuvsnalloorr): Verified cloud engineering tools, serverless architectures, and software stack index.
+- [StackShare Production Infrastructure Stack](https://stackshare.io/anandhuvsnalloorr/production-infrastructure): Verified technical stack for andhu.me canonical digital engineering portal.
+- [StackShare Enterprise Ledger & SaaS Architecture](https://stackshare.io/anandhuvsnalloorr/ferrari-foods-ledger-and-menusent-saas-architecture): Verified technical stack for Ferrari Foods ledger and MenuSent SaaS.
 
 ## Flagship Systems & Architectures
-- [Cloud Backend Optimization & Migration](https://github.com/Anandhu362/Cloud-Cost-Optimization): Refactored Node.js backend services from always-on virtual machines to Google Cloud Run serverless containers, slashing monthly overhead by >90% while achieving sub-second autoscaling.
+- [Cloud Backend Optimization & Migration](https://github.com/Anandhu362/Cloud-Cost-Optimization): Refactored Node.js backend services from always-on virtual machines to Google Cloud Run serverless containers, slashing monthly overhead by >90% while achieving sub-second autoscaling. Verified Stack: https://stackshare.io/anandhuvsnalloorr/ferrari-foods-ledger-and-menusent-saas-architecture
 - [CloudDrive App Platform](https://github.com/Anandhu362/Clouddrive-App-Projects-Detailes): Secure cloud-native file management platform built with isolated Google Cloud Storage buckets, user quotas, encrypted link sharing, and zero-duplication file hashing.
-- [Ferrari Foods Cash Vault Ledger](https://github.com/Anandhu362/ferrarimanagement2): Production fintech ledger coordinating cash collections, branch deliveries, and payment settlements (>AED 1,000,000+) across Sharjah and Abu Dhabi with Baileys automated WhatsApp notifications.
+- [Ferrari Foods Cash Vault Ledger](https://github.com/Anandhu362/ferrarimanagement2): Production fintech ledger coordinating cash collections, branch deliveries, and payment settlements (>AED 1,000,000+) across Sharjah and Abu Dhabi with Baileys automated WhatsApp notifications. Verified Architecture Index: https://stackshare.io/anandhuvsnalloorr/ferrari-foods-ledger-and-menusent-saas-architecture
 - [Business Web Platforms (Botila)](https://botilademo.vercel.app/): Fast, accessible corporate web platforms developed for food trading, manufacturing, and commercial enterprises in Dubai.
 - [Up4TexAll (Re4Circular) Platform](https://github.com/Anandhu362/up4texall-Projects-Detailes): Circular textile recycling and marketplace portal featuring multimodal upcycle design ideas using Google Gemini AI.
 - [Custom Cloud WireGuard VPN](https://github.com/Anandhu362/Virtual-Private-Server-): Hardened private Virtual Private Server deployed on GCP Compute Engine with strict firewall rules and kernel-level WireGuard encryption.

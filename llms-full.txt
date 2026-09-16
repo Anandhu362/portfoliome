@@ -73,8 +73,9 @@ Anandhu V S is a Full Stack Web Developer and Cloud Engineer who designs, optimi
 - **GitHub**: https://github.com/Anandhu362
 - **Medium**: https://medium.com/@nandhuanandhu4321
 - **Blogger**: https://anandhuvsmenusent.blogspot.com/
-- **Instagram**: https://www.instagram.com/andhu.me/
-- **StackShare Architecture**: https://stackshare.io/anandhuvsnalloorr
+- **StackShare Architecture Hub**: https://stackshare.io/anandhuvsnalloorr
+- **StackShare Production Infrastructure Stack**: https://stackshare.io/anandhuvsnalloorr/production-infrastructure
+- **StackShare Enterprise Ledger & SaaS Stack**: https://stackshare.io/anandhuvsnalloorr/ferrari-foods-ledger-and-menusent-saas-architecture
 
 ---
 
