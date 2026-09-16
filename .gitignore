@@ -29,6 +29,9 @@ me overview/
 me\ overivew/
 SEO_AEO_MASTER_STRATEGY.md
 *STRATEGY*.md
+external_repos/
+*REGISTRY*.json
+*REGISTRY*.md
 
 # Ignore unused template demo variants
 about-*.html
