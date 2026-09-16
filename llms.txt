@@ -25,6 +25,7 @@
 - [Medium Technical Publications](https://medium.com/@nandhuanandhu4321): Engineering articles on Cloud Run serverless migration and cloud-native file storage.
 - [Blogger Tech Articles](https://anandhuvsmenusent.blogspot.com/): Cloud infrastructure architecture and system case studies.
 - [Instagram Profile](https://www.instagram.com/andhu.me/): Creative digital media, branding, and tech concepts.
+- [StackShare Tech Profile](https://stackshare.io/anandhu362): Verified cloud engineering tools, serverless architectures, and software stack index.
 
 ## Flagship Systems & Architectures
 - [Cloud Backend Optimization & Migration](https://github.com/Anandhu362/Cloud-Cost-Optimization): Refactored Node.js backend services from always-on virtual machines to Google Cloud Run serverless containers, slashing monthly overhead by >90% while achieving sub-second autoscaling.

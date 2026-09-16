@@ -74,7 +74,7 @@ Anandhu V S is a Full Stack Web Developer and Cloud Engineer who designs, optimi
 - **Medium**: https://medium.com/@nandhuanandhu4321
 - **Blogger**: https://anandhuvsmenusent.blogspot.com/
 - **Instagram**: https://www.instagram.com/andhu.me/
-- **Vercel Showcase**: https://portfolio-anandhu-v-s.vercel.app/
+- **StackShare Architecture**: https://stackshare.io/anandhu362
 
 ---
 

@@ -15,7 +15,8 @@ Allow: /sitemap.xml
 
 # Protected endpoints & internal documentation
 Disallow: /sendemail.php
-Disallow: /me\ overivew/
+Disallow: /me%20overivew/
+Disallow: /me overivew/
 Disallow: /.git/
 
 # -----------------------------------------------------------
