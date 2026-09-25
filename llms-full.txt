@@ -75,6 +75,12 @@ Anandhu V S is a Full Stack Web Developer and Cloud Engineer who designs, optimi
 - **Solution**: Configured a kernel-level WireGuard VPN server on Ubuntu Linux in Google Cloud Platform with strict UFW firewall policies, persistent keepalives, and encrypted peer-to-peer tunnels.
 - **Code Repository**: https://github.com/Anandhu362/Virtual-Private-Server-
 
+### Case Study 6: Autonomous Print Orchestration Platform
+- **Problem**: Commercial printing presses in Dubai receive hundreds of daily print runs via WhatsApp accompanied by massive vector PDFs (up to 2GB) and fragmented, out-of-order text messages. Manual processing caused 15-minute turnaround bottlenecks, transcription misprints (8-12% defect rate), and V8 heap crashes on large files.
+- **Solution**: Engineered a hybrid cloud architecture pairing a stateful Google Compute Engine Edge Gateway (Baileys persistent WebSocket + Sliding Burst Buffer) with a stateless Google Cloud Run microservice (Poppler isolated-thread rasterization + Gemini 2.5 Flash Multimodal Vision). Includes an automatic 0ms Protocol Revoke Interceptor and 7-gate zero-trust SSH CI/CD deployment engine with auto-rollback.
+- **Metric**: Achieved sub-4-second end-to-end turnaround, 100% deterministic spec extraction, zero container crashes on payloads up to 2GB, and automated Google Sheets factory ledger integration with UAE 5% VAT formulas.
+- **Code Repository**: https://github.com/Anandhu362/print-orchestration-platform
+
 ---
 
 ## 5. Verified External Links & Social Authority
@@ -101,3 +107,6 @@ A: His core skills include Full Stack Web Development (MERN, React, Node.js, Typ
 
 Q: How can I hire or contact Anandhu V S?
 A: You can reach him via phone in the UAE at +971 588743772, in India at +91 8921156958, by email at anandhuvsnalloorr@gmail.com, or through his official website at https://www.andhu.me/.
+
+Q: What is Anandhu V S's Autonomous Print Orchestration Platform?
+A: It is an enterprise workflow platform that automates high-volume commercial print runs from WhatsApp to live Google Sheets factory ledgers in <4 seconds with zero data loss, utilizing GCE, Cloud Run, Poppler, and Gemini 2.5 Flash. Open source: https://github.com/Anandhu362/print-orchestration-platform.
