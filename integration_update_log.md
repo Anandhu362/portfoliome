@@ -63,3 +63,23 @@ This log records all integration updates, modifications, and cascading SEO/AEO/G
      - Bound the new repository directly to the `Anandhu V S` knowledge graph on `andhu.me`.
      - Validated JSON-LD schemas across `index.html` and `portfolio.html` for clean parsing.
 
+---
+
+## Update: 2026-09-25T15:55:00+04:00
+
+* **Overview**: Sanitized and anonymized all commercial client store names in `Anandhu362/print-orchestration-platform` (`README.md`) and fixed GitHub Mermaid flowchart parsing errors below Artifact 3.
+
+* **Files Modified**:
+  - `README.md` (in `Anandhu362/print-orchestration-platform`)
+  - `integration_update_log.md`
+
+* **Update Details**:
+  1. **Commercial Client Data Sanitization**:
+     - Redacted and anonymized real-world client retail store names (`WADI MARKET JEBEL ALI 1`, `ZAM ZAM KAWANEEJ 2`, `NAGAMAT JEBEL ALI INDUSTRIAL AREA 1`, `RUMAN AL QUOZ IND. AREA 1`, `BEST HOME MUHAISNAH 2`, `GO FRESH BURDUBAI`, `RUMAN AL QUOZ IND AREA 1`) into standardized enterprise placeholders (`[ENTERPRISE RETAIL - BRANCH 1]`, `[COMMERCIAL HYPERMARKET - BRANCH 2]`, `[INDUSTRIAL OUTLET - BRANCH 3]`, etc.).
+     - Anonymized client filenames in Artifact 4 (`RUMAN DEPARTMENT STORE.pdf`, `BEST HOME PROMO SEP.pdf`, `NEW RUMAN .pdf` -> `COMMERCIAL_FLYER_CATALOG_A.pdf`, `WEEKLY_PROMO_RUN_B.pdf`, `HIGH_RES_CATALOG_C.pdf`).
+     - Replaced real supermarket brand names in Challenge 6 with generalized identifiers (`BRAND_ALPHA`, `BRAND_BETA`, `BRAND_GAMMA`).
+  2. **GitHub Mermaid Rendering Fix**:
+     - Fixed `Parse error on line 30: ... -->|HTTPS Dispatch (Stateless)| WORKER ... got 'PS'` by removing unquoted parentheses from edge labels (`|HTTPS Dispatch - Stateless|`).
+     - Fixed unquoted angle bracket in `|Row Append <4s|` -> `|Row Append under 4s|`.
+     - Updated Mermaid flowchart TD and sequence diagrams to render valid native SVG displays on GitHub.
+
